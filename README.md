@@ -1,4 +1,4 @@
-# 💌 A Love Letter For You ♥ — Bubu & Dudu Edition
+# 💌  HBD ♥ — Bubu & Dudu Edition
 
 <p align="center">
   <img src="gifs/hero.gif" alt="Bubu and Dudu Couple" width="300" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(232, 86, 127, 0.3);" />
@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://tranquil-seahorse-6368be.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
   <a href="https://instagram.com/the.cipher.stack"><img src="https://img.shields.io/badge/Instagram-@the.cipher.stack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @the.cipher.stack"></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -40,12 +41,20 @@
 
 ---
 
-## 🎬 Live Preview & How to Run
+## 🎬 Live Demo & How to Run
 
-### Option 1: Direct File Open
+### 🌐 Live Demo
+Experience the love letter live directly on Netlify:
+👉 **[https://tranquil-seahorse-6368be.netlify.app](https://tranquil-seahorse-6368be.netlify.app)**
+
+---
+
+### Local Setup
+
+#### Option 1: Direct File Open
 Simply double-click [`A love letter for you.html`](A%20love%20letter%20for%20you.html) to open it directly in any modern web browser (Chrome, Safari, Edge, Firefox, Brave).
 
-### Option 2: Local HTTP Server (Recommended)
+#### Option 2: Local HTTP Server (Recommended)
 Using Python:
 ```bash
 # Python 3
@@ -73,13 +82,11 @@ You can personalize this love letter without editing any code! Simply add query 
 | `from` | `string` | Your name / signature | *(None)* | `?from=Alex` |
 | `msg` | `string` | Custom personal love message | *(Curated poem)* | `?msg=You+mean+the+world+to+me` |
 
-### 💡 Example Custom Links:
-```text
-A love letter for you.html?to=Sarah&from=David
-```
-```text
-A love letter for you.html?to=Honey&from=Your+Bubu&msg=Happy+Birthday+to+my+one+and+only!
-```
+### 💡 Example Live Links:
+- 🌸 **Default with Custom Names:**  
+  [https://tranquil-seahorse-6368be.netlify.app?to=Sarah&from=David](https://tranquil-seahorse-6368be.netlify.app?to=Sarah&from=David)
+- 💖 **With a Custom Message:**  
+  [https://tranquil-seahorse-6368be.netlify.app?to=Honey&from=Your+Bubu&msg=Happy+Birthday+to+my+one+and+only!](https://tranquil-seahorse-6368be.netlify.app?to=Honey&from=Your+Bubu&msg=Happy+Birthday+to+my+one+and+only!)
 
 ---
 
